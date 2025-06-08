@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/TamusnAI/tamusnai-frontend
+git branch -M main
+git add .
+git commit -m "Projet frontend initial React/Vite"
+git push -u origin main
+
